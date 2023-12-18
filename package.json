@@ -1,0 +1,11 @@
+{
+  "name": "front-end---predict-churn-telecommunication",
+  "version": "1.0.0",
+  "description": "Front-End Prediction Churn in Telecommunication Sector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fariz Baiquni",
+  "license": "ISC"
+}
